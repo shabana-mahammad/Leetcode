@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shabana-mahammad/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shabana-mahammad/Leetcode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shabana-mahammad/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shabana-mahammad/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shabana-mahammad/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shabana-mahammad/Leetcode/tree/master/0054-spiral-matrix) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shabana-mahammad/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/shabana-mahammad/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
