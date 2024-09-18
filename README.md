@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shabana-mahammad/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shabana-mahammad/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shabana-mahammad/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shabana-mahammad/Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shabana-mahammad/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
