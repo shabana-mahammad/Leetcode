@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shabana-mahammad/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shabana-mahammad/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shabana-mahammad/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0735-asteroid-collision](https://github.com/shabana-mahammad/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/shabana-mahammad/Leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shabana-mahammad/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shabana-mahammad/Leetcode/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/shabana-mahammad/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shabana-mahammad/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shabana-mahammad/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shabana-mahammad/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shabana-mahammad/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0735-asteroid-collision](https://github.com/shabana-mahammad/Leetcode/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shabana-mahammad/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
