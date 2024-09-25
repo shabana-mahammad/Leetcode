@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shabana-mahammad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/shabana-mahammad/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/shabana-mahammad/Leetcode/tree/master/0792-binary-search) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/shabana-mahammad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shabana-mahammad/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shabana-mahammad/Leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/shabana-mahammad/Leetcode/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shabana-mahammad/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/shabana-mahammad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -130,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shabana-mahammad/Leetcode/tree/master/0155-min-stack) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/shabana-mahammad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
