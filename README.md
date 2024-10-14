@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shabana-mahammad/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shabana-mahammad/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shabana-mahammad/Leetcode/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shabana-mahammad/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/shabana-mahammad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/shabana-mahammad/Leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/shabana-mahammad/Leetcode/tree/master/0735-asteroid-collision) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shabana-mahammad/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shabana-mahammad/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shabana-mahammad/Leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shabana-mahammad/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/shabana-mahammad/Leetcode/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shabana-mahammad/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/shabana-mahammad/Leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shabana-mahammad/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Stack
 |  |
 | ------- |
@@ -137,9 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shabana-mahammad/Leetcode/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shabana-mahammad/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shabana-mahammad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/shabana-mahammad/Leetcode/tree/master/0621-task-scheduler) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shabana-mahammad/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
