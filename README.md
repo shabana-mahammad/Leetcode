@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shabana-mahammad/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shabana-mahammad/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shabana-mahammad/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2317-count-collisions-on-a-road](https://github.com/shabana-mahammad/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2846-robot-collisions](https://github.com/shabana-mahammad/Leetcode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shabana-mahammad/Leetcode/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shabana-mahammad/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shabana-mahammad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2317-count-collisions-on-a-road](https://github.com/shabana-mahammad/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2846-robot-collisions](https://github.com/shabana-mahammad/Leetcode/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shabana-mahammad/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shabana-mahammad/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shabana-mahammad/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2317-count-collisions-on-a-road](https://github.com/shabana-mahammad/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 ## Design
 |  |
 | ------- |
