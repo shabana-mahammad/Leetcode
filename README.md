@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/shabana-mahammad/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/shabana-mahammad/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shabana-mahammad/Leetcode/tree/master/0621-task-scheduler) |
+| [0652-find-duplicate-subtrees](https://github.com/shabana-mahammad/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shabana-mahammad/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shabana-mahammad/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shabana-mahammad/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/shabana-mahammad/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1035-cousins-in-binary-tree](https://github.com/shabana-mahammad/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shabana-mahammad/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shabana-mahammad/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shabana-mahammad/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/shabana-mahammad/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1035-cousins-in-binary-tree](https://github.com/shabana-mahammad/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -220,5 +223,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shabana-mahammad/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shabana-mahammad/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shabana-mahammad/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/shabana-mahammad/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1035-cousins-in-binary-tree](https://github.com/shabana-mahammad/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
