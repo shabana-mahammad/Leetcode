@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/shabana-mahammad/Leetcode/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shabana-mahammad/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shabana-mahammad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shabana-mahammad/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2245-destroying-asteroids](https://github.com/shabana-mahammad/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shabana-mahammad/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2846-robot-collisions](https://github.com/shabana-mahammad/Leetcode/tree/master/2846-robot-collisions) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/shabana-mahammad/Leetcode/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/shabana-mahammad/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shabana-mahammad/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shabana-mahammad/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shabana-mahammad/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shabana-mahammad/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shabana-mahammad/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/shabana-mahammad/Leetcode/tree/master/0283-move-zeroes) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shabana-mahammad/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shabana-mahammad/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shabana-mahammad/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shabana-mahammad/Leetcode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/shabana-mahammad/Leetcode/tree/master/0621-task-scheduler) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shabana-mahammad/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2245-destroying-asteroids](https://github.com/shabana-mahammad/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2846-robot-collisions](https://github.com/shabana-mahammad/Leetcode/tree/master/2846-robot-collisions) |
 ## Counting
