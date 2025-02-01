@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/shabana-mahammad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shabana-mahammad/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/shabana-mahammad/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shabana-mahammad/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2245-destroying-asteroids](https://github.com/shabana-mahammad/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shabana-mahammad/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2846-robot-collisions](https://github.com/shabana-mahammad/Leetcode/tree/master/2846-robot-collisions) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/shabana-mahammad/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shabana-mahammad/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/shabana-mahammad/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shabana-mahammad/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shabana-mahammad/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shabana-mahammad/Leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/shabana-mahammad/Leetcode/tree/master/0621-task-scheduler) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/shabana-mahammad/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shabana-mahammad/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shabana-mahammad/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shabana-mahammad/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shabana-mahammad/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shabana-mahammad/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shabana-mahammad/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2317-count-collisions-on-a-road](https://github.com/shabana-mahammad/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 ## Design
 |  |
