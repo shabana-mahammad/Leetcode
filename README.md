@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shabana-mahammad/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shabana-mahammad/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/shabana-mahammad/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/shabana-mahammad/Leetcode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shabana-mahammad/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shabana-mahammad/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shabana-mahammad/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shabana-mahammad/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/shabana-mahammad/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/shabana-mahammad/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shabana-mahammad/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shabana-mahammad/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/shabana-mahammad/Leetcode/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shabana-mahammad/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shabana-mahammad/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2317-count-collisions-on-a-road](https://github.com/shabana-mahammad/Leetcode/tree/master/2317-count-collisions-on-a-road) |
