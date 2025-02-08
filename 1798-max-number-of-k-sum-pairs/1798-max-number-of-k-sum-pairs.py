@@ -1,12 +1,17 @@
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        hm={}
+        nums.sort()
         count=0
-        for i in range(len(nums)):
-            required = k-nums[i]
-            if required in hm and hm[required]>0:
-                count +=1 
-                hm[required] -=1
+        i=0
+        j=len(nums)-1
+        while i<j:
+            sums=nums[i]+nums[j]
+            if sums==k:
+                count +=1
+                i +=1
+                j -=1
+            elif sums<k:
+                i +=1
             else:
-                hm[nums[i]] = hm.get(nums[i],0)+1
+                j -=1
         return count
