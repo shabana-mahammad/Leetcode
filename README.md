@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shabana-mahammad/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shabana-mahammad/Leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/shabana-mahammad/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shabana-mahammad/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shabana-mahammad/Leetcode/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shabana-mahammad/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shabana-mahammad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shabana-mahammad/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shabana-mahammad/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shabana-mahammad/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shabana-mahammad/Leetcode/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shabana-mahammad/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shabana-mahammad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2317-count-collisions-on-a-road](https://github.com/shabana-mahammad/Leetcode/tree/master/2317-count-collisions-on-a-road) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shabana-mahammad/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shabana-mahammad/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shabana-mahammad/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shabana-mahammad/Leetcode/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
 | ------- |
