@@ -275,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/shabana-mahammad/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/shabana-mahammad/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1035-cousins-in-binary-tree](https://github.com/shabana-mahammad/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shabana-mahammad/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shabana-mahammad/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
