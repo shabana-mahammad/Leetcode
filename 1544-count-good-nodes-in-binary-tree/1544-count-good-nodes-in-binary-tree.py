@@ -19,5 +19,4 @@ class Solution:
         if not root:
             return count[0]
         self.countgoodNodes(root,count,root.val)
-        maxi=root.val
         return count[0] 
