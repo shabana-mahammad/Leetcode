@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/shabana-mahammad/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/shabana-mahammad/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shabana-mahammad/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/shabana-mahammad/Leetcode/tree/master/1036-rotting-oranges) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shabana-mahammad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shabana-mahammad/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/shabana-mahammad/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shabana-mahammad/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shabana-mahammad/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shabana-mahammad/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/shabana-mahammad/Leetcode/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shabana-mahammad/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/shabana-mahammad/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/shabana-mahammad/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/shabana-mahammad/Leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shabana-mahammad/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
