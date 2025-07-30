@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shabana-mahammad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shabana-mahammad/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/shabana-mahammad/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/shabana-mahammad/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shabana-mahammad/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shabana-mahammad/Leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/shabana-mahammad/Leetcode/tree/master/0733-flood-fill) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shabana-mahammad/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shabana-mahammad/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/shabana-mahammad/Leetcode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/shabana-mahammad/Leetcode/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shabana-mahammad/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shabana-mahammad/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shabana-mahammad/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/shabana-mahammad/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shabana-mahammad/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shabana-mahammad/Leetcode/tree/master/1036-rotting-oranges) |
 ## Simulation
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shabana-mahammad/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shabana-mahammad/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/shabana-mahammad/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/shabana-mahammad/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shabana-mahammad/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/shabana-mahammad/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/shabana-mahammad/Leetcode/tree/master/0733-flood-fill) |
